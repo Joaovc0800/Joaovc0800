@@ -1,4 +1,4 @@
-### 
+### Hello! I'm João Vitor 👋.
 
 - 🔭 I’m currently working on Impacto Saúde. 
 - 🌱 I’m currently learning Java, C.
@@ -6,8 +6,6 @@
 - 🤔 I’m looking for help with Frameworks.
 - 💬 Ask me about Brazil.
 - 📫 How to reach me: profissional.joaovitor98@gmail.com
-
-### Hello! I'm João Vitor 👋.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-coelho-39b5361b3/) [![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/18185628/jo%c3%a3o-vitor-amorim?tab=profile)
 
