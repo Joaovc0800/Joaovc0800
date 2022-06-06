@@ -1,7 +1,7 @@
 ### Hello! I'm João Vitor 👋.
 
 - 🔭 I’m currently working on Impacto Saúde. 
-- 🌱 I’m currently learning Java, C.
+- 🌱 I’m currently learning Java, C and Front end.
 - 👯 I’m looking to collaborate Java and C projects.  
 - 🤔 I’m looking for help with Frameworks.
 - 💬 Ask me about Brazil.
